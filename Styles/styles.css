@@ -1,6 +1,7 @@
-body {
-  background: light rgb(218, 218, 10);
-}
 h1 {
   text-align: center;
+  color: navy;
+}
+body {
+  background-color: rgb(236, 236, 170);
 }
